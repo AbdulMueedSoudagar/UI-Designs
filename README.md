@@ -9,4 +9,4 @@ Checkout my U
 ![Music player-2](https://github.com/AbdulMueedSoudagar/UI-Designs/assets/117592865/e2fb4af2-b2a7-45e7-9516-97e5c0cdfc9a)
 ![Dark Knight](https://github.com/AbdulMueedSoudagar/UI-Designs/assets/117592865/1c1074ed-ab0b-4e5c-a286-2f58ffb29207)
 ![Daily task app](https://github.com/AbdulMueedSoudagar/UI-Designs/assets/117592865/8039e30f-bf3e-4f98-a30b-4c36678842a0)
-![landing page](https://github.com/AbdulMueedSoudagar/UI-Designs/assets/117592865/1168e55c-87d8-4ad7-b2ec-7df28ea6e15c) ![landing page](https://github.com/AbdulMueedSoudagar/UI-Designs/assets/117592865/1168e55c-87d8-4ad7-b2ec-7df28ea6e15c) 
+![landing page](https://github.com/AbdulMueedSoudagar/UI-Designs/assets/117592865/1168e55c-87d8-4ad7-b2ec-7df28ea6e15c)
